@@ -2,7 +2,7 @@
 title: 'Next.jsとTailwind CSSに移行しました'
 description: Nextjs Tailwind css Netlify Typescript Eslint
 date: '2021-09-16'
-modified_date: '2021-09-18'
+modified_date: '2021-09-24'
 image: /assets/images/posts/nextjs-starter-banner.png
 ---
 
@@ -21,3 +21,8 @@ SSG(Static Site Generation)やSSR(Server Side Rendering)ができます。
 ```Next.js```ファイルを10から11へとアップデートしました。
 このサイト自身のファイルが参考ファイルになります。(2021/09/18)
 [Home_Site_Nextjs_2021](https://github.com/nuovotaka/home_site_nextjs_2021)
+
+### 記事とアプリケーションの分離を行いました
+変更は下記に行いました。すでにマージしてあります。
+[github_api](https://github.com/nuovotaka/home_site_nextjs_2021/tree/github-api)
+netlifyからBuild hookのurlを設定してもらいgithubでwebhookにそのurlを設定しました。
