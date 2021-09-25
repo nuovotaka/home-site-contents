@@ -1,5 +1,5 @@
 ---
-title: 'Next.jsとTailwind CSSに移行しました'
+title: 'Next.jsとTailwind CSSの構成図を作ってみました'
 description: Nextjs Tailwind css Github Netlify Typescript Eslint
 date: '2021-09-25'
 modified_date: '2021-09-25'
