@@ -13,7 +13,7 @@ image: /assets/images/posts/nextjs-starter-banner.png
 記事の管理をマークダウンで記述して管理したかったのと記事とAppを分離したかったのでこのような構成になりました。
 
 Appの変更があった場合はそちらだけで更新が可能です。
-記事のみを投稿するときはVercelのBuild HookとGithubのWeb Hooksを利用しています。
+記事のみを投稿するときはVercelのDeploy HookとGithubのWeb Hooksを利用しています。
 
 ユーザーはVercelがホストするサーバーを閲覧しにいくことになります。
 Githubでは記事とAppのソースの管理を行います。
@@ -22,8 +22,7 @@ Githubでは記事とAppのソースの管理を行います。
 
 ###　追記
 
-構成図にある通りビルド、デプロイサーバーをNetlifyからVercelに変更しました。
+構成図にある通りビルド&デプロイサーバーをNetlifyからVercelに変更しました。
 カスタムドメインも変更しています。
 
 HugoのサイトもVercelのサーバーへ移行しました。
-少し改善されたような気がします。
