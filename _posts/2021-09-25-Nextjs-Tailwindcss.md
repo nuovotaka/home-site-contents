@@ -13,9 +13,9 @@ image: /assets/images/posts/nextjs-starter-banner.png
 記事の管理をマークダウンで記述して管理したかったのと記事とAppを分離したかったのでこのような構成になりました。
 
 Appの変更があった場合はそちらだけで更新が可能です。
-記事のみを投稿するときは~~Netlify~~VercelのBuild HookとGithubのWeb Hooksを利用しています。
+記事のみを投稿するときはVercelのBuild HookとGithubのWeb Hooksを利用しています。
 
-ユーザーは~~Netlify~~Vercelがホストするサーバーを閲覧しにいくことになります。
+ユーザーはVercelがホストするサーバーを閲覧しにいくことになります。
 Githubでは記事とAppのソースの管理を行います。
 
 この構成ではGithubのパーソナルアクセストークンを利用しています。
