@@ -6,7 +6,7 @@ modified_date: '2022-05-21'
 image: /assets/images/posts/nextjs-starter-banner.png
 ---
 
-## TailwindCss V3に対応
+## Tailwind Css V3に対応
 
 Tailwind css がv２からv３になりました。
 [upgrade-guide](https://tailwindcss.com/docs/upgrade-guide)に沿って変更を行いました。
