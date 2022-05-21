@@ -10,8 +10,9 @@ image: /assets/images/posts/nextjs-starter-banner.png
 
 Tailwind css がv２からv３になりました。
 
-[upgrade-guide](https://tailwindcss.com/docs/upgrade-guide)に沿って変更を行いました。
+- [upgrade-guide](https://tailwindcss.com/docs/upgrade-guide)に沿って変更を行いました。
+- [tailwindcss](https://tailwindcss.com/)
 
 ### リポジトリ
 
-[Home_Site_Nextjs_2022](https://github.com/nuovotaka/home_site_nextjs_2022)
+- [Home_Site_Nextjs_2022](https://github.com/nuovotaka/home_site_nextjs_2022)
